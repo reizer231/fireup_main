@@ -1,0 +1,12 @@
+name: Fireup Script
+version: "1.0"
+slug: fireup_script
+description: "Add-on do uruchamiania skryptu Selenium"
+startup: application
+arch:
+  - amd64
+  - armv7
+  - aarch64
+boot: auto
+options: {}
+schema: {}
