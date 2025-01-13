@@ -1,12 +1,12 @@
-name: Fireup Script
+name: Fireup Main
+slug: fireup_main
 version: "1.0"
-slug: fireup_script
-description: "Add-on do uruchamiania skryptu Selenium"
+description: "An add-on that runs the Selenium-based fireup_main script."
 startup: application
+boot: auto
 arch:
   - amd64
   - armv7
   - aarch64
-boot: auto
 options: {}
 schema: {}
